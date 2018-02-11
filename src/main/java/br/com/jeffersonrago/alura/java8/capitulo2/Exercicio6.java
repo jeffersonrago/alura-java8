@@ -1,4 +1,4 @@
-package br.com.jeffersonrago.alura.java8.capitulo1;
+package br.com.jeffersonrago.alura.java8.capitulo2;
 
 public class Exercicio6 {
 
